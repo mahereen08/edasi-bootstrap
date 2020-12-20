@@ -1,0 +1,64 @@
+@media (max-width: 1399px) {
+		header {padding: 150px 0px;padding-bottom: 100px;}
+		.box {
+			width: 50%;
+		}
+}
+
+@media (max-width: 1199px) {
+		header {padding: 100px 0px; padding-bottom: 50px;}
+		.box h1 {font-size: 30px;}
+		.box h2 {font-size: 30px;}
+		.box p {font-size: 16px;}
+
+		.quote-section p{
+    		font-size: 16px;
+    		padding: 0px 38px;}
+	
+    	.gallery-section {margin-bottom: 0px; }	
+		.gallery-section h3 {
+    		font-size: 19px;}
+
+		.gallery-section p {
+    		line-height: 24px;}
+
+		.gallery-section span {width: 70px;}
+
+		.caution-section img{
+    		padding: 30px 0px;}
+
+		.caution-section p{
+    		font-size: 16px;
+    		padding: 0px 34px;
+    		padding-bottom: 20px;}
+
+    	footer h1 {font-size: 30px;}
+    	footer p {font-size: 15px}
+
+    }
+
+@media (max-width: 991px) {
+
+		.box {width: 70%}
+		
+		.quote-section p {padding: 0px;}
+
+		.gallery-section h3 {
+    		font-size: 22px;}
+		.gallery-section span {
+    		width: 82px;}
+		.gallery-section p {
+    		margin-bottom: 25px;}
+}
+
+
+@media (max-width: 767px) {
+	}
+
+
+@media (max-width: 575px) {
+	}
+
+
+@media (max-width: 400px) {
+	}
